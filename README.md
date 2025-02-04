@@ -36,3 +36,28 @@
 
 > [!Note]
 This repository contains tools and scripts sourced from various GitHub repositories and other open-source platforms. All original works are credited to their respective authors. If you are the owner of any content and wish to have it removed, please contact the repository author directly. This project is intended for educational and ethical purposes only. Unauthorized use, distribution, or modification of these tools without proper consent is prohibited. By using this repository, you agree to comply with all applicable laws and ethical guidelines. The author is not responsible for any misuse or damage caused by the tools provided herein.
+
+# Source
+
+- [blackhat-python3](https://github.com/EONRaider/blackhat-python3)
+
+
+# Table of Content
+
+## Python Networking
+
+- [TCP Client](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/TCP%20Client.md)
+- [UDP Client](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/UDP%20Client.md)
+- [TCP Server](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/TCP%20Server.md)
+- [Netcat Client & Server for Remote code execution](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Netcat%20Client%20%26%20Server.md)
+- [TCP Proxy](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/TCP%20Proxy.md)
+- [SSH with Paramiko](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/SSH%20with%20Paramiko.py)
+- [Basic SSH server using the paramiko](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Basic%20SSH%20server%20using%20the%20paramiko.md)
+- [SSH reverse tunneling](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/SSH%20reverse%20tunneling.md)
+- [Simple SSH server](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/bhp_reverse_ssh_cmd.md)
+- 
+
+
+
+
+
