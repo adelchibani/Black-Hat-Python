@@ -57,6 +57,15 @@ This repository contains tools and scripts sourced from various GitHub repositor
 - [Simple SSH server](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/bhp_reverse_ssh_cmd.md)
 - [Packet Sniffer Using raw sockets](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/packet%20sniffer%20using%20raw%20sockets.md)
 - [Packet Sniffer Decoding Header](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Packet%20Sniffer%20Decoding%20Header.md)
+- [Packet Sniffer Decoding ICMP](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Packet%20Sniffer%20Decoding%20ICMP.md)
+- [Python Subnet Scanner with ICMP Packet Analysis](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Python%20Subnet%20Scanner%20with%20ICMP%20Packet%20Analysis.md)
+- [Email Credential Sniffer in Python](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Email%20Credential%20Sniffer%20in%20Python.md)
+- [ARP Cache Poisoning with Scapy](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/ARP%20Cache%20Poisoning%20with%20Scapy.md)
+- [PCAP Image Extractor & Face Detector](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/PCAP%20Image%20Extractor%20%26%20Face%20Detector.md)
+
+## Web Hacking
+- [Web Path Scanner (Joomla Site Crawler)](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Web%20Path%20Scanner%20(Joomla%20Site%20Crawler).md)
+- [Directory & File Bruteforcer](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Directory%20%26%20File%20Bruteforcer.md)
 
 
 
