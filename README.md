@@ -55,7 +55,8 @@ This repository contains tools and scripts sourced from various GitHub repositor
 - [Basic SSH server using the paramiko](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Basic%20SSH%20server%20using%20the%20paramiko.md)
 - [SSH reverse tunneling](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/SSH%20reverse%20tunneling.md)
 - [Simple SSH server](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/bhp_reverse_ssh_cmd.md)
-- 
+- [Packet Sniffer Using raw sockets](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/packet%20sniffer%20using%20raw%20sockets.md)
+- [Packet Sniffer Decoding Header](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Packet%20Sniffer%20Decoding%20Header.md)
 
 
 
