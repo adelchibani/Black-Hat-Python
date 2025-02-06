@@ -2,6 +2,12 @@
 
 This script is a **multi-threaded web scanner** that attempts to discover **hidden files & directories** on a target website by comparing it with a **local Joomla copy**.
 
+
+- [cain.txt](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Extras/cain.txt)
+- [SVN_all.txt](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Extras/SVN_all.txt)
+
+
+
 ```python
 import os
 import queue
