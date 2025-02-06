@@ -62,7 +62,12 @@ This repository contains tools and scripts sourced from various GitHub repositor
 - [Email Credential Sniffer in Python](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Email%20Credential%20Sniffer%20in%20Python.md)
 - [ARP Cache Poisoning with Scapy](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/ARP%20Cache%20Poisoning%20with%20Scapy.md)
 - [PCAP Image Extractor & Face Detector](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/PCAP%20Image%20Extractor%20%26%20Face%20Detector.md)
-
+- [Brute-force HTTP authentication scan](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/HTTP/brute-force%20HTTP%20authentication%20scan.md)
+- [Check Open and Closed Ports on a Remote Host](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/HTTP/Check%20Open%20and%20Closed%20Ports%20on%20a%20Remote%20Host.md)
+- [Multithreaded TCP Port Scanning](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/HTTP/Multithreaded%20TCP%20Port%20Scanning.md)
+- [Scanning a Range of Ports on a Remote Host](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/HTTP/Scanning%20a%20Range%20of%20Ports%20on%20a%20Remote%20Host.md)
+- [Test a Socket Connection to a Remote Host](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/HTTP/Test%20a%20Socket%20Connection%20to%20a%20Remote%20Host.md)
+- [Resolve Host Name from an IP Address](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/HTTP/Resolve%20Host%20Name%20from%20an%20IP%20Address.md)
 ### Web Hacking
 - [Web Path Scanner (Joomla Site Crawler)](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Web%20Path%20Scanner%20(Joomla%20Site%20Crawler).md)
 - [Directory & File Bruteforcer](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Directory%20%26%20File%20Bruteforcer.md)
