@@ -80,8 +80,19 @@ This repository contains tools and scripts sourced from various GitHub repositor
 
 ### Trojaning Tasks on Windows
 - [keylogger](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/keylogger.md)
-- 
+- [Captures a screenshot of the entire desktop on a Windows system](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/captures%20a%20screenshot%20of%20the%20entire%20desktop%20on%20a%20Windows%20system.md)
+- [Execute shellcode from a web server](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/execute%20shellcode%20from%20a%20web%20server.md)
+- [Sandbox Detection](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/Sandbox%20Detection.md)
+- [Monitor processes on a Windows system](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/Monitor%20processes%20on%20a%20Windows%20system.md)
+- [Monitor specific directories](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/monitor%20specific%20directories.md)
+- [Code Injection](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/Code%20Injection.md)
 
-
+### Browser Attacks
+- [Browser Hijacking and Login Redirect](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/Browser%20Hijacking%20and%20Login%20Redirect.md)
+- [Simple HTTP Server for Capturing Credentials](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/Simple%20HTTP%20Server%20for%20Capturing%20Credentials.md)
+- [Document Exfiltration Using Tumblr](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/Document%20Exfiltration%20Using%20Tumblr.md)
+- [Generates a new RSA key pair with a 2048-bit key length](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/generates%20a%20new%20RSA%20key%20pair%20with%20a%202048-bit%20key%20length.md)
+- [Decrypts and decompresses the encrypted data](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/decrypts%20and%20decompresses%20the%20encrypted%20data.md)
+  
 
 
