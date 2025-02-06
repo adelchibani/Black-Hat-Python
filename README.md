@@ -94,5 +94,9 @@ This repository contains tools and scripts sourced from various GitHub repositor
 - [Generates a new RSA key pair with a 2048-bit key length](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/generates%20a%20new%20RSA%20key%20pair%20with%20a%202048-bit%20key%20length.md)
 - [Decrypts and decompresses the encrypted data](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Browser%20Attacks/decrypts%20and%20decompresses%20the%20encrypted%20data.md)
   
-
+### Forensics
+- [Extract password hashes from a Windows memory dump using Volatility 3](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Forensics/extract%20password%20hashes%20from%20a%20Windows%20memory%20dump%20using%20Volatility%203.md)
+- [Redirect execution to the injected shellcode](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Forensics/redirect%20execution%20to%20the%20injected%20shellcode.md)
+- [Immunity Debugger](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Forensics/Immunity%20Debugger.md)
+- 
 
