@@ -44,7 +44,7 @@ This repository contains tools and scripts sourced from various GitHub repositor
 
 # Table of Content
 
-## Python Networking
+### Python Networking
 
 - [TCP Client](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/TCP%20Client.md)
 - [UDP Client](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/UDP%20Client.md)
@@ -63,10 +63,24 @@ This repository contains tools and scripts sourced from various GitHub repositor
 - [ARP Cache Poisoning with Scapy](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/ARP%20Cache%20Poisoning%20with%20Scapy.md)
 - [PCAP Image Extractor & Face Detector](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/PCAP%20Image%20Extractor%20%26%20Face%20Detector.md)
 
-## Web Hacking
+### Web Hacking
 - [Web Path Scanner (Joomla Site Crawler)](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Web%20Path%20Scanner%20(Joomla%20Site%20Crawler).md)
 - [Directory & File Bruteforcer](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Directory%20%26%20File%20Bruteforcer.md)
+- [Multi-threaded Brute-Force Login Script](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/Multi-threaded%20Brute-Force%20Login%20Script.md)
+- [multi-threaded brute-force attack on a WordPress login page](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Networking/multi-threaded%20brute-force%20attack%20on%20a%20WordPress%20login%20page.md)
 
+### Burp Fuzzing
+- [Burp Suite Intruder Payload Generator (Python Extension)](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/BHP%20Fuzzer/Burp%20Suite%20Intruder%20Payload%20Generator%20(Python%20Extension).md)
+- [Burp Suite Extension: BHP Wordlist (Bing Search Integration)](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/BHP%20Fuzzer/Burp%20Suite%20Extension%3A%20BHP%20Wordlist%20(Bing%20Search%20Integration).md)
+- [Burp Suite Extension: BHP Wordlist Generator](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/BHP%20Fuzzer/Burp%20Suite%20Extension%3A%20BHP%20Wordlist%20Generator.md)
+
+### Github Command and Control
+- [GitHub-based trojan](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Github%20Command%20and%20Control/GitHub-based%20trojan.md)
+
+
+### Trojaning Tasks on Windows
+- [keylogger](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Trojaning%20Tasks%20on%20Windows/keylogger.md)
+- 
 
 
 
