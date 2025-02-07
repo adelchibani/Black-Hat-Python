@@ -40,6 +40,8 @@ This repository contains tools and scripts sourced from various GitHub repositor
 # Source
 
 - [blackhat-python3](https://github.com/EONRaider/blackhat-python3)
+- [Mastering Python Scripting for System Administrators](https://github.com/PacktPublishing/Mastering-Python-Scripting-for-System-Administrators-)
+- 
 
 
 # Table of Content
