@@ -103,5 +103,28 @@ This repository contains tools and scripts sourced from various GitHub repositor
 - [Extract password hashes from a Windows memory dump using Volatility 3](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Forensics/extract%20password%20hashes%20from%20a%20Windows%20memory%20dump%20using%20Volatility%203.md)
 - [Redirect execution to the injected shellcode](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Forensics/redirect%20execution%20to%20the%20injected%20shellcode.md)
 - [Immunity Debugger](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Forensics/Immunity%20Debugger.md)
-- 
+
+### Automating Administrative Task
+
+- [Accept input from a file.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/accept_by_input_file.md)
+- [Accept input from a pipe.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/accept_by_pipe.md)
+- [Capture and process command output.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/capture_output.md)
+- [Execute external system commands.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/execute_external_commands.md)
+- [Generate and handle warning messages.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/generate_warnings.md)
+- [Example of using `getpass` for secure password input.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/getpass_example.md)
+- [Handle password input securely.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/handling_password.md)
+- [List directory contents.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/list_dir.md)
+- [Example of using Python's logging module.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/logging_example.md)
+- [Log warnings and error codes.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/logging_warnings_codes.md)
+- [Run scripts without user prompts.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/no_prompt.md)
+- [Open a web page or URL.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/open_web.md)
+- [Example of using `os` module for directory operations.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/os_dir_example.md)
+- [Reprompt for password input.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/password_prompt_again.md)
+- [Set CPU usage limits for processes.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/put_cpu_limit.md)
+- [Read and parse configuration files.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/read_config_file.md)
+- [Read and process multiple configuration files.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/read_many_config_file.md)
+- [Redirect input/output streams.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/Redirect%20input-output%20streams.md)
+- [Create backups of files or directories.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/Create%20backups%20of%20files%20or%20directories.md)
+- [Run scripts with user prompts.](https://github.com/aw-junaid/Black-Hat-Python/blob/main/Python%20Tools/Automating%20Regular%20Administrative%20Activities/Run%20scripts%20with%20user%20prompts.md)
+
 
