@@ -41,7 +41,7 @@ This repository contains tools and scripts sourced from various GitHub repositor
 
 - [blackhat-python3](https://github.com/EONRaider/blackhat-python3)
 - [Mastering Python Scripting for System Administrators](https://github.com/PacktPublishing/Mastering-Python-Scripting-for-System-Administrators-)
-- 
+- [python-pentest-tools](https://github.com/dloss/python-pentest-tools/blob/master/README.md)
 
 
 # Table of Content
